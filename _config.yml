@@ -1,0 +1,8 @@
+title: Twitter community notes
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
